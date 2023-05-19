@@ -3,4 +3,24 @@ sans-serif;
 font-family: 'Playfair Display',
 serif;
 font-family: 'Roboto',
+sans-serif;
+font-family: 'Hanken Grotesk',
+sans-serif;
+font-family: 'Playfair Display',
+serif;
+font-family: 'Roboto',
+sans-serif;
+font-family: 'Roboto Condensed',
 sans-serif;*/
+
+h1{
+    font-family:'Playfair Display',
+        serif; 
+        text-align: center;
+}
+p{
+    font-family: 'Roboto',sans-serif; 
+    text-align: center;
+}
+
+
