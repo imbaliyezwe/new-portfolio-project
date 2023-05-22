@@ -88,7 +88,7 @@ p {
     margin: 30px;
 }
 
-.branding {
+button {
     background: var(--branding-color);
     border-radius: 4px;
     color: white;
@@ -98,11 +98,11 @@ p {
     padding: 15px 30px;
 }
 
-.btn-branding:hover {
+.button:hover {
     color: white;
 }
 
-.btn-branding-outline {
+.branding-outline {
     color: var(--branding-color);
     border: 1px solid var(--branding-color);
     border-radius: 4px;
@@ -112,7 +112,7 @@ p {
     padding: 15px 30px;
 }
 
-.btn-branding-outline:hover {
+.branding-outline:hover {
     background: var(--branding-color);
     color: white;
 }
